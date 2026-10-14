@@ -94,7 +94,7 @@ Employee-Wellness-Analysis/
 
 ## 🚀 How to Run the Project
 
-### Prerequisites
+### Pre-requisites
 
 Install Python and Jupyter Notebook. Install the required libraries if they are used in the notebook.
 
