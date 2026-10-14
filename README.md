@@ -68,8 +68,6 @@ Depending on the available columns, these may include:
 - Patterns and potential outliers
 - Statistical summaries and visual comparisons
 
-*The exact analysis areas depend on the variables available in the dataset.*
-
 ## 💡 Business Value
 
 Employee wellness analysis can help organizations:
@@ -79,8 +77,6 @@ Employee wellness analysis can help organizations:
 - Support evidence-based employee wellness initiatives.
 - Develop a clearer understanding of relevant workplace factors.
 - Make informed decisions using data-driven analysis.
-
-**Note:** Observed relationships do not necessarily establish causation. Findings should be interpreted in the context of the dataset and its limitations.
 
 ## 📂 Repository Structure
 
@@ -119,8 +115,6 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
 
-*Note: Update the dataset path and install only the libraries required by your notebook.*
-
 ## 🧠 Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
@@ -144,7 +138,3 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Manav Natekar**
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
