@@ -1,5 +1,5 @@
 
-# 🧑‍💼 Employee Wellness Analysis | Python
+# 🧑‍💼 Employee Wellness Analysis - Python
 
 ## 📌 Aim
 
